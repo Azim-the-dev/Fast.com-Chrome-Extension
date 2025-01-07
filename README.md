@@ -3,7 +3,7 @@
 This Chrome extension for [Fast.com](https://fast.com/) converts internet speed units from Mbps (Megabits per second) to MBps (Megabytes per second) for easier understanding of your internet speed.
 
 > Basically, it tells the actual download speed.
-
+ 
 ## 📸 Demo
 
 ### Without Extension
