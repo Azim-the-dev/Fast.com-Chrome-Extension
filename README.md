@@ -18,7 +18,7 @@ This Chrome extension for [Fast.com](https://fast.com/) converts internet speed 
 
 1. Clone the repository or download the zip file.
    ```bash
-   git clone https://github.com/Azim-me/Fast.com-Chrome-Extension.git
+   git clone https://github.com/skajimuddin/Fast.com-chrome-extension.git
    ```
    
 2. Open Chrome and go to `chrome://extensions/`
